@@ -1,0 +1,30 @@
+[
+    {
+        "rating": "4.5",
+        "title": "THE WATER CURE",
+        "text": "Faqih Asy'ari",
+        "img": "lib/assets/img/pic-8.png",
+        "audio": "Voices.mp3"
+    },
+    {
+        "rating": "4.4",
+        "title": "PEACE BRO",
+        "text": "Faqih Asy'ari",
+        "img": "lib/assets/img/pic-7.png",
+        "audio": "June - Bobby Richards.mp3"
+    },
+    {
+        "rating": "4.6",
+        "title": "Remember Me",
+        "text": "Faqih Asy'ari",
+        "img": "lib/assets/img/pic-6.png",
+        "audio": "Muriel - Bobby Richards.mp3"
+    },
+    {
+        "rating": "4.7",
+        "title": "Indonesia",
+        "text": "Faqih Asy'ari",
+        "img": "lib/assets/img/pic-9.png",
+        "audio": "Piano Trap.mp3"
+    }
+]
